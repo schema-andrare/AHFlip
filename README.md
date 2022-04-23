@@ -2,6 +2,8 @@
 This is a dupe checker mod, it checks if items have been duped or not!
 This mod updates in realtime, and its even better than ST!
 
+This mod is made by a SB mod dev! This mod coolaborates with SBE!
+
 If you have the mod installed check on the bottom of the item to see if it is duped or not!
 
 Message me on discord if you have any problems/questions! Username: Eddiekungen#0111
