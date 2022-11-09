@@ -1,12 +1,19 @@
-# NBE-Dupe-Checker-Mod
-This is a dupe checker mod, it checks if items have been duped or not!
-This mod updates in realtime, and its even better than ST!
+# AHFlip Mod
 
-This mod is made by a SB mod dev! This mod coolaborates with SBE!
+<img alt="Downloads" src="https://img.shields.io/github/downloads/mindlesslydev/notenoughcoins/total.svg" />
+<img alt="Downloads" src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Drobothanzo%26type%3Dpatrons" />
 
-If you have the mod installed check on the bottom of the item to see if it is duped or not!
+A SkyBlock Flipping Mod.
 
-Message me on discord if you have any problems/questions!
+Discord - https://discord.gg/b3JBsh8fEd<br/>
+Premium - https://payhip.com/b/0MuhN<br/>
+CoinsClient - https://github.com/mindlesslydev/CoinsClient
+
+- `/ahf help` - Shows the help message containing all the subcommands and their usage
+- `/ahf toggle` - Enables the mod to return a list of suggested items to flip whenever one is found.
+
+
+# We are not liable for any coins you lost by buying items without checking, flips aren't always perfect
 
 
 <img src="blob:chrome-untrusted://media-app/f4c18207-faa7-44d0-a3dd-3ae59216098c" alt="unknown(1).jpg"/>![image](https://user-images.githubusercontent.com/104255266/164892036-ca6c31c7-08d2-4cb9-a969-ba3aea943895.png)
