@@ -1,7 +1,7 @@
 # AHFlip Mod
 
 <img alt="Downloads" src="https://img.shields.io/github/downloads/mindlesslydev/notenoughcoins/total.svg" />
-<img alt="Downloads" src="https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Drobothanzo%26type%3Dpatrons" />
+
 
 A SkyBlock Flipping Mod.
 
@@ -24,10 +24,10 @@ CoinsClient - https://github.com/mindlesslydev/CoinsClient
 
 
 
-<img src="https://i.ytimg.com/vi/yI14Q_R0WP4/maxresdefault.jpg" alt="This Mod makes me MILLIONS of coins in MINUTES!!! - Hypixel Skyblock -  YouTube"/>
+<img src="https://i.ytimg.com/vi/yI14Q_R0WP4/maxresdefault.jpg" width="100" height="100" alt="This Mod makes me MILLIONS of coins in MINUTES!!! - Hypixel Skyblock -  YouTube"/>
 
 
 
-<img src="https://skyblockguides.com/wp-content/uploads/2022/04/maxresdefault-13.jpg" alt="How to Install NotEnoughCoins for Hypixel Skyblock - Skyblock Guides"/>
+<img src="https://skyblockguides.com/wp-content/uploads/2022/04/maxresdefault-13.jpg" width="100" height="100" alt="How to Install NotEnoughCoins for Hypixel Skyblock - Skyblock Guides"/>
 
 
