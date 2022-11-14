@@ -3,7 +3,7 @@
 <img alt="Downloads" src="https://img.shields.io/github/downloads/mindlesslydev/notenoughcoins/total.svg" />
 
 
-A SkyBlock Flipping Mod.
+A SkyBlock Flipping Mod!
 
 Discord - https://discord.gg/b3JBsh8fEd<br/>
 
